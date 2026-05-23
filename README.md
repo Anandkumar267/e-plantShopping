@@ -1,17 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # E-PlantShopping
-It is a web app that sells plants online
-=======
-# React + Vite
+## Technologies Used : JavaScript, React , HTML, CSS
+It is a web app that sells plants online. We used react, html, css to make the  webapp 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 8a9763a (initial)
-=======
-# coding-project-template
->>>>>>> 3cfa5f7 (Initial commit)
